@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "RWXI5ddNNdwMf8ba5teHlJn8XADG7uw4PtdTTFFTHzSsk1nSCH5rwBdP1qYKL84dnN+buCRu5WmNKUUSCaUoxQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rateo\\source\\repos\\Labs\\EliteRestraurant\\EliteRestraurant\\Services\\Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rateo\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
+    "C:\\Users\\rateo\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "C:\\Users\\rateo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\rateo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\rateo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\rateo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "C:\\Users\\rateo\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

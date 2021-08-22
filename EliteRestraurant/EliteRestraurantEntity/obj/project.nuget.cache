@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "O0+P1BWUoJWZ6momYzGMU2wjdLgvyEph5SCkFi+JDDeLGSgPjUpGmLFWmCepDrbFtU8um6b5LA2iVqQXrdc8dw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rateo\\source\\repos\\Labs\\EliteRestraurant\\EliteRestraurant\\EliteRestraurantEntity\\EliteRestraurantEntity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rateo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\rateo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

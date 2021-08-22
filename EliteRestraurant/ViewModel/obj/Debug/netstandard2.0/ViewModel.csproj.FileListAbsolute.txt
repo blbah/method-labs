@@ -1,0 +1,4 @@
+C:\Users\rateo\source\repos\Labs\EliteRestraurant\EliteRestraurant\ViewModel\bin\Debug\netstandard2.0\ViewModel.deps.json
+C:\Users\rateo\source\repos\Labs\EliteRestraurant\EliteRestraurant\ViewModel\bin\Debug\netstandard2.0\ViewModel.dll
+C:\Users\rateo\source\repos\Labs\EliteRestraurant\EliteRestraurant\ViewModel\obj\Debug\netstandard2.0\ViewModel.AssemblyInfoInputs.cache
+C:\Users\rateo\source\repos\Labs\EliteRestraurant\EliteRestraurant\ViewModel\obj\Debug\netstandard2.0\ViewModel.AssemblyInfo.cs

@@ -1,0 +1,5 @@
+C:\Users\rateo\source\repos\EliteRestraurant\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.deps.json
+C:\Users\rateo\source\repos\EliteRestraurant\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.dll
+C:\Users\rateo\source\repos\EliteRestraurant\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\rateo\source\repos\EliteRestraurant\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\rateo\source\repos\EliteRestraurant\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.csprojAssemblyReference.cache

@@ -1,0 +1,30 @@
+﻿<Window x:Class="WPFView.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFView"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Menu:" HorizontalAlignment="Left" Height="28" Margin="171,25,0,0" VerticalAlignment="Top" Width="133"/>
+        <ListBox HorizontalAlignment="Left" Height="338" Margin="70,58,0,0" VerticalAlignment="Top" Width="249" ItemsSource="{Binding Dishes}"
+                 SelectedItem="{Binding SelectedDish}"/>
+
+        <StackPanel DataContext="{Binding SelectedDish}" Margin="384,43,255.6,253">
+            <Label  Content="Name"/>
+            <Label  Content="{Binding Name, UpdateSourceTrigger=PropertyChanged}" />
+            <Label  Content="Type" />
+            <Label  Content="{Binding DishType, UpdateSourceTrigger=PropertyChanged}" Height="28" Margin="0,0,-0.4,0" />
+
+        </StackPanel>
+
+
+        <Label Content="Your Order:" HorizontalAlignment="Left" Height="28" Margin="587,25,0,0" VerticalAlignment="Top" Width="133" RenderTransformOrigin="0.517,0.734"/>
+        <Button Content="Make&#xD;&#xA;Order" HorizontalAlignment="Left" Margin="621,346,0,0" VerticalAlignment="Top" Height="50" Width="114" Command="{Binding AddOrderCommand}"/>
+        <Button Content="    Add&#xD;&#xA;to order" HorizontalAlignment="Left" Margin="424,346,0,0" VerticalAlignment="Top" Height="50" Width="114" Command="{Binding AddDishCommand}" />
+        <ListBox HorizontalAlignment="Left" Height="244" Margin="587,71,0,0" VerticalAlignment="Top" Width="166" ItemsSource="{Binding Ordered}"/>
+        <Label Content="{Binding Message, UpdateSourceTrigger=PropertyChanged}" HorizontalAlignment="Left" Margin="384,231,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.441,0.082" Height="84" Width="170"/>
+
+    </Grid>
+</Window>
